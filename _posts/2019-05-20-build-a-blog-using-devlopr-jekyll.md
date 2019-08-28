@@ -111,6 +111,8 @@ Push your changes to Github
 You can visit your blog at [http://yourusername.github.io](http://yourusername.github.io)
 
 
+![devlopr starter template](/assets/img/posts/6.gif){:class="gif-fluid"}
+
 
 
 
